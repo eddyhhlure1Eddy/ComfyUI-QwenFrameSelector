@@ -1,0 +1,9 @@
+{
+  "api_key": "your-openrouter-api-key-here",
+  "model": "qwen/qwen3-vl-235b-a22b-thinking",
+  "default_sample_rate": 30,
+  "default_top_percent": 30.0,
+  "default_min_score": 6.0,
+  "default_criteria": "balanced",
+  "timeout_seconds": 60
+}
